@@ -1,5 +1,5 @@
 package covid_19;
-//test
+
 import java.util.Date;
 
 public class Utilisateur extends Personne{
